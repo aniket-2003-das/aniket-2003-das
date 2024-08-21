@@ -1,12 +1,12 @@
 <h1 align="center">MY NAME IS ANIKET DAS</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true&locale=en" alt="aniket-2003-das" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-2003-das" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true&locale=en" alt="aniket-2003-das" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
