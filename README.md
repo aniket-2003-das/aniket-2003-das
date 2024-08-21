@@ -24,9 +24,6 @@
 
 <h3 align="left">Connect with me -:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aniket-2003-das" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
   <a href="https://leetcode.com/u/FUbZBsHEPE/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
