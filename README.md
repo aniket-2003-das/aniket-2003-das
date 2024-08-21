@@ -14,6 +14,14 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/FUbZBsHEPE/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
