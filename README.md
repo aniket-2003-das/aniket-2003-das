@@ -27,7 +27,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://x.com/Aniket_2003_Das" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28Twitter%29.svg" alt="X" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="X" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/FUbZBsHEPE/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
