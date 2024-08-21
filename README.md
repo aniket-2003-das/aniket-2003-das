@@ -1,11 +1,11 @@
 
 <h1 align="center">MY NAME IS ANIKET DAS</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-2003-das" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
