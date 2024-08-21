@@ -1,3 +1,6 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true&locale=en" alt="aniket-2003-das" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
 
 <h1 align="center">MY NAME IS ANIKET DAS</h1>
 
