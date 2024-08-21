@@ -3,15 +3,28 @@
 
  
 
+
+  
+
+
+
+
+
+<h1 align="center">MY NAME IS ANIKET DAS</h1>
+
+
+
+
+
+
+
+
 <a href='https://docs.github.com/en/get-started/exploring-integrations/github-developer-program'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniket-2003-das)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aniket-2003-das)  
 
 
 
@@ -20,9 +33,10 @@
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="center">MY NAME IS ANIKET DAS</h1>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-2003-das" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das" alt="aniket-2003-das" /></a> </p>
