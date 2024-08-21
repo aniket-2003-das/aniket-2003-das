@@ -5,12 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-2003-das" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true&locale=en" alt="aniket-2003-das" /></p>
+
+<h3 align="left">Contributions -:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Programming Trophies -:</h3>
+<h3 align="left">Trophies -:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das" alt="aniket-2003-das" />
