@@ -1,4 +1,4 @@
-<h1 align="center">MY NAME IS ANIKET DAS</h1>
+<h1 align="center">Hi! My Name is ANIKET DAS</h1>
 
 
 <p align="left">
