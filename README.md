@@ -11,7 +11,7 @@
 <h3 align="left">Contributions -:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
 
-<h3 align="left">Langusges -:</h3>
+<h3 align="left">Languages -:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
