@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">Programming Trophies:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das" alt="aniket-2003-das" />
