@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Profile Statistics -:</h3>
-[![Aniket's github stats](https://bad-apple-github-readme.vercel.app/api?username=aniket-2003-das&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+https://bad-apple-github-readme.vercel.app/api?username=aniket-2003-das&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-2003-das&show_icons=true&locale=en" alt="aniket-2003-das" /></p>
 
 <h3 align="left">Contributions -:</h3>
