@@ -11,7 +11,7 @@
 
 <h3 align="left">Contributions -:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&" alt="aniket-2003-das" /></p>
- [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![ANIKET DAS's current streak](https://streak-stats.demolab.com/?user=aniket-2003-das&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <h3 align="left">Languages -:</h3>
 
