@@ -1,4 +1,6 @@
-<h1 align="center" style="color: #00b3ff">Hi! My name is ANIKET DAS</h1>
+<h1 align="center" style="color: #00b3ff">Hi! I am Aniket Das</h1>
+
+<hr style="border: 1px solid #00b3ff;">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
