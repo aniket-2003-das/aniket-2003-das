@@ -36,7 +36,7 @@
 <h3 align="left" style="color: #00b3ff;">Trophies:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" style="margin-bottom: 20px;" />
   </a>
 </p>
 
@@ -90,4 +90,3 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
 </p>
-
