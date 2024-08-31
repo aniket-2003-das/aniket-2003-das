@@ -44,7 +44,7 @@
 
 <h3 align="left" style="color: #00b3ff;">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/FUbZBsHEPE/" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/aniket-2003-das/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
