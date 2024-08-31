@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00b3ff">Hi! I am Aniket Das</h1>
+<h1 align="center">Hi! I am Aniket Das</h1>
 
 <hr style="border: 1px solid #00b3ff;">
 
