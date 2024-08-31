@@ -5,12 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-2003-das" />
 </p>
 
-<h3 align="left">Profile Statistics -:</h3>
 
+<h3 align="left">Profile Statistics -:</h3>
 [![ANIKET DAS's github stats](https://bad-apple-github-readme.vercel.app/api?username=aniket-2003-das&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
+
 <h3 align="left">Contributions -:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/aniket-2003-das">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&theme=blue-green" alt="GitHub Streak" />
   </a>
@@ -18,8 +19,8 @@
 
 
 <h3 align="left">Languages -:</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-2003-das)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Trophies -:</h3>
 <p align="left">
@@ -27,6 +28,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das" alt="aniket-2003-das" />
   </a>
 </p>
+
 
 <h3 align="left">Connect with me -:</h3>
 <p align="left">
@@ -37,7 +39,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools -:</h3>
