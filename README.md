@@ -60,15 +60,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aniket-2003-das/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/300px-LinkedIn_2021.svg.png" alt="LinkedIn" width="70" height="30" style="filter: invert(1) sepia(1) hue-rotate(190deg) saturate(3);" />
-  </a>
-  <a href="https://x.com/Aniket_2003_Das" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" alt="Twitter" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
-  </a>
-</p>
-
 
 <hr style="border: 1px solid #00b3ff;">
 
