@@ -1,6 +1,5 @@
 <h1 align="center">ANIKET DAS GITHUB PROFILE</h1>
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -40,6 +39,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" style="margin-bottom: 20px;" />
   </a>
 </p>
+
+<hr style="border: 1px solid #00b3ff;">
+
+<h3 align="left" style="color: #00b3ff;">DSA Statistics:</h3>
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/aniket-2003-das" alt="LeetCode Stats" style="margin-right: 20px;"/>
+  <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=aniketdas8822" alt="GFG Profile" />
+  </a>
+</p>
+
+
 
 <hr style="border: 1px solid #00b3ff;">
 
