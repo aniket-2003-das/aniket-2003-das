@@ -22,6 +22,14 @@
   </a>
 </p>
 
+
+<hr style="border: 1px solid #00b3ff;">
+
+<h3 align="left" style="color: #00b3ff;">DSA Statistics:</h3>
+<p align="left" style="display: flex; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/aniket-2003-das" alt="LeetCode Stats" style="margin-right: 20px;"/>
+</p>
+
 <hr style="border: 1px solid #00b3ff;">
 
 <h3 align="left" style="color: #00b3ff;">Languages:</h3>
@@ -38,13 +46,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aniket-2003-das&theme=algolia&title=Stars,Commits,Followers,Repositories&title_color=00b3ff&text_color=ffffff" alt="GitHub Trophies" style="margin-bottom: 20px;" />
   </a>
-</p>
-
-<hr style="border: 1px solid #00b3ff;">
-
-<h3 align="left" style="color: #00b3ff;">DSA Statistics:</h3>
-<p align="left" style="display: flex; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/aniket-2003-das" alt="LeetCode Stats" style="margin-right: 20px;"/>
 </p>
 
 
