@@ -45,11 +45,7 @@
 <h3 align="left" style="color: #00b3ff;">DSA Statistics:</h3>
 <p align="left" style="display: flex; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/aniket-2003-das" alt="LeetCode Stats" style="margin-right: 20px;"/>
-  <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
-    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=aniketdas8822" alt="GFG Profile" />
-  </a>
 </p>
-
 
 
 <hr style="border: 1px solid #00b3ff;">
@@ -59,10 +55,27 @@
   <a href="https://leetcode.com/u/aniket-2003-das/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.geeksforgeeks.org/user/aniketdas8822/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://x.com/Aniket_2003_Das" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" alt="Twitter" width="40" height="40" style="filter: invert(0.5) sepia(1) hue-rotate(190deg) saturate(3);" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aniket-2003-das/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/300px-LinkedIn_2021.svg.png" alt="LinkedIn" width="70" height="30" style="filter: invert(1) sepia(1) hue-rotate(190deg) saturate(3);" />
+  </a>
+</p>
+
+
 
 <hr style="border: 1px solid #00b3ff;">
 
