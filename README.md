@@ -22,7 +22,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-2003-das&theme=blue-green" alt="GitHub Streak" />
   </a>
 </p>
-
 <hr style="border: 1px solid #00b3ff;">
 
 <h3 align="left" style="color: #00b3ff;">DSA Statistics:</h3>
