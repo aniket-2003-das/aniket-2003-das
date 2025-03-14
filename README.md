@@ -60,7 +60,6 @@
   </a>
 </p>
 
-
 <hr style="border: 1px solid #00b3ff;">
 
 <h3 align="left" style="color: #00b3ff;">Languages and Tools:</h3>
