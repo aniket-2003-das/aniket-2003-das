@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniket-2003-das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 <hr style="border: 1px solid #00b3ff;">
 
 <h3 align="left" style="color: #00b3ff;">Profile Statistics:</h3>
